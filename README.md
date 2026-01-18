@@ -10,7 +10,7 @@
 ## 🚀 Live Demo
 
 🔗 **Deployed Application:**  
-👉 [https://your-deployed-link-here.com  ](https://plan-pal-fe.vercel.app/)
+👉 [https://plan-pal-fe.vercel.app/  ](https://plan-pal-fe.vercel.app/)
 
 *(Replace this with your actual deployed URL)*
 
