@@ -12,8 +12,6 @@
 🔗 **Deployed Application:**  
 👉 [https://plan-pal-fe.vercel.app/  ](https://plan-pal-fe.vercel.app/)
 
-*(Replace this with your actual deployed URL)*
-
 ---
 
 ## ✨ Features
